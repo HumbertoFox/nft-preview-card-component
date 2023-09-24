@@ -6,6 +6,7 @@
     body main .div-main {
         max-width: 326px;
         height: 544px;
+        box-shadow: none;
     }
     body main .div-main .p-main {
         font-size: 16px;
